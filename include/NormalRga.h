@@ -36,8 +36,8 @@
 
 #include "stdio.h"
 
-#include "../drmrga.h"
-#include "../rga.h"
+#include "drmrga.h"
+#include "rga.h"
 #include "NormalRgaContext.h"
 
 

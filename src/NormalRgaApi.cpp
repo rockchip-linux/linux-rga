@@ -13,7 +13,7 @@
 #include "NormalRga.h"
 #include "NormalRgaContext.h"
 //#include "../GraphicBuffer.h"
-#include "../rga.h"
+#include "rga.h"
 
 int         sina_table[360];
 int         cosa_table[360];
